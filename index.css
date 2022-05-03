@@ -76,7 +76,7 @@ input[type="button"]:hover,input[type="submit"]:hover{
     color:white;
     font-size:medium;
     display:grid;
-    grid-template-columns:repeat(13,auto);
+    grid-template-columns:repeat(21, auto);
     grid-gap: 0px;
     width:100%;
     height: 30px;
